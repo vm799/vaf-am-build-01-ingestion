@@ -1,26 +1,17 @@
 [project]
-name = "vaf-am-build-01-ingestion"
-version = "1.0.0"
+name = "vaf-am-ingestion"
+version = "0.1.0"
+description = "VAF AM Build 01 — Multi-Source Data Ingestion"
 requires-python = ">=3.11"
-description = "VAF AM Series: Multi-Source Data Ingestion — Built with Claude AI"
 dependencies = [
-    "anthropic>=0.40.0",
-    "feedparser>=6.0.11",
-    "pdfplumber>=0.11.0",
-    "httpx>=0.28.0",
+    "anthropic>=0.28.0",
+    "feedparser>=6.0.0",
+    "httpx>=0.24.0",
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+    "python-dotenv>=1.0",
     "beautifulsoup4>=4.12.0",
-    "pydantic>=2.10.0",
-    "pydantic-settings>=2.7.0",
-    "aiosqlite>=0.20.0",
-    "python-dotenv>=1.0.0",
-    "tiktoken>=0.8.0",
+    "aiosqlite>=0.19.0",
+    "tiktoken>=0.7.0",
+    "pdfplumber>=0.10.0",
 ]
-
-[project.optional-dependencies]
-dev = [
-    "pytest>=8.3.0",
-    "pytest-asyncio>=0.24.0",
-]
-
-[tool.pytest.ini_options]
-asyncio_mode = "auto"
