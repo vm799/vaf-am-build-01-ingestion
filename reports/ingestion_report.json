@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-03-23T06:49:48.171505",
-  "count": 24,
+  "generated_at": "2026-03-24T17:50:15.747368",
+  "count": 60,
   "documents": [
+    {
+      "id": "a04b37e9-d732-4539-833a-a58fd55b0e6a",
+      "source_type": "rss",
+      "title": "War in Iran Is Disrupting Air Travel, Hitting Middle East Hardest",
+      "summary": "Middle Eastern and Asian airlines face significant operational challenges and financial pressure compared to their counterparts. Regional travelers in these areas are experiencing disproportionate impacts from current aviation difficulties. Other airlines and markets are demonstrating more resilience during this period.",
+      "ingested_at": "2026-03-24T17:49:39.801726"
+    },
+    {
+      "id": "74a81334-4f41-4a3a-9e4b-ed24b0b33b5b",
+      "source_type": "rss",
+      "title": "Covid Relief Loans Are Haunting Small Businesses",
+      "summary": "The Small Business Administration dispersed $378 billion in loans to support businesses during economic hardship, but loan repayment has become problematic. This suggests significant default risk and potential losses for the government program. The situation highlights challenges in both borrower financial recovery and the sustainability of emergency lending initiatives.",
+      "ingested_at": "2026-03-24T17:49:39.801722"
+    },
+    {
+      "id": "3db92b40-1b73-4168-b9e0-7a6908bb243e",
+      "source_type": "rss",
+      "title": "Russian Oil Shipment Puts Focus on Kremlin Spy Outpost in Cuba",
+      "summary": "Moscow appears to be undermining Trump's economic pressure campaign against Cuba, potentially through trade or financial support. China maintains suspected surveillance facilities on the island, indicating geopolitical competition for influence in the Caribbean. These actions suggest Cuba has become a focal point for US rivals seeking to counteract American sanctions and expand their strategic reach in the Western Hemisphere.",
+      "ingested_at": "2026-03-24T17:49:39.801711"
+    },
+    {
+      "id": "396741a5-b1de-4a78-bbf3-44151c2cc436",
+      "source_type": "rss",
+      "title": "Oil traders bet millions minutes before Trump's Iran talks post",
+      "summary": "Oil markets rallied in anticipation of reduced geopolitical tension following the US President's announcement to postpone military strikes on Iranian power infrastructure. The increase in oil trading volume prior to this statement suggests traders were pricing in risk mitigation from avoided escalation in the Middle East. This development likely reflects market relief that potential supply disruptions from an Iran conflict would be averted.",
+      "ingested_at": "2026-03-24T17:49:38.866085"
+    },
+    {
+      "id": "c8f0e174-ff26-4cf7-8e43-bbe9fddaf9b4",
+      "source_type": "rss",
+      "title": "First-time buyers hit as mortgage rates keep rising",
+      "summary": "More than 200 first-time buyer mortgage deals have been withdrawn from the market since March 6th, significantly reducing options for new homebuyers. This pullback indicates lender caution and suggests potential market instability in the mortgage sector. Further disruption is anticipated, which could make homeownership increasingly difficult for first-time purchasers.",
+      "ingested_at": "2026-03-24T17:49:38.866080"
+    },
+    {
+      "id": "47090738-6515-46ce-a28f-89317e8129d0",
+      "source_type": "rss",
+      "title": "Reeves plans energy bill help for those 'who need it most'",
+      "summary": "I appreciate you providing context, but I should clarify that I'm ready to analyze actual financial documents you'd like to share. Regarding your statement: elevated oil and gas prices can result from Middle East geopolitical tensions, affecting domestic inflation, energy costs, and broader market volatility. If you have a specific financial document, report, or dataset about these impacts, I can provide a conc",
+      "ingested_at": "2026-03-24T17:49:38.866071"
+    },
+    {
+      "id": "14d364c1-e9b8-490b-8f9d-8ba7967dad74",
+      "source_type": "web",
+      "title": "News | FCA",
+      "summary": "# FCA News Summary\n\nThe FCA has issued multiple enforcement actions in March 2026, including banning individual Kasim Garipoglu from financial services, ordering Beauforce Corporation to cease operations and return client funds, and investigating Market Financial Solutions Limited. Recent regulatory initiatives focus on strengthening consumer protection through new incident and third-party resilience rules, addressing risks from un",
+      "ingested_at": "2026-03-24T17:49:38.851608"
+    },
+    {
+      "id": "4f4d66cc-a3e3-4979-b589-b0d8123ba05e",
+      "source_type": "pdf",
+      "title": "sample_earnings",
+      "summary": "GSK delivered a strong Q4 2025 with revenue of £7.2bn, beating consensus by £300m, driven by 12% growth in vaccines and 8% growth in specialty medicines. Management raised 2026 guidance to 8-10% revenue growth and received FDA approval for a new oncology drug, supported by a robust pipeline of 15 late",
+      "ingested_at": "2026-03-24T17:49:31.491572"
+    },
+    {
+      "id": "df83d13b-85d0-499f-aa04-943cc8412b62",
+      "source_type": "email",
+      "title": "You're invited: join our livestream this Thursday",
+      "summary": "# n8n Community Livestream Summary\n\nn8n is hosting a monthly community livestream featuring previews of new AI features and recent product updates across their workflow automation platform. The event will showcase community demos, partner innovations, and a competitive monthly challenge where attendees can solve real-world problems. Interested participants can RSVP on Luma to watch live and engage with",
+      "ingested_at": "2026-03-24T16:12:00"
+    },
+    {
+      "id": "ed8f1d6d-7c14-4331-96dd-4c6f277c8c02",
+      "source_type": "email",
+      "title": "Video-to-video is now on Artlist! Generate AI videos with more control than ever",
+      "summary": "I appreciate you reaching out, but I need to clarify my role: I'm a financial analyst designed to summarize financial documents in exactly 3 sentences, not to process marketing content or promotional links.\n\nThe material you've shared appears to be marketing content for Artlist's video-to-video AI editing capabilities, rather than a financial document requiring analysis.\n\nIf you have actual",
+      "ingested_at": "2026-03-24T16:05:13"
+    },
+    {
+      "id": "fdaa918c-d113-4f3d-805a-b95395221795",
+      "source_type": "email",
+      "title": "Zip it",
+      "summary": "Based on this AppSumo promotional content, the platform is featuring several software-as-a-service (SaaS) deals with varying urgency: Zipchat AI offers AI-powered chat automation across multiple channels and is leaving in 3 days, while BugSmash ends tomorrow and provides client feedback collection tools. The other highlighted products include Phygital+",
+      "ingested_at": "2026-03-24T14:03:29"
+    },
+    {
+      "id": "4b71a02a-001d-445f-aec5-74fa5084243e",
+      "source_type": "file_share",
+      "title": "Risk Report 2026",
+      "summary": "HSBC delivered strong Q1 2026 results with pre-tax profit surging 31% to £12.65bn on revenue growth of 13%, while improving operational efficiency with a cost-to-income ratio declining 520 basis points to 42.1%. All three divisions performed well, with Global Banking & Markets leading profit growth at 36%, benefiting from",
+      "ingested_at": "2026-03-24T07:28:44.107561"
+    },
+    {
+      "id": "0e17f6dd-4aa0-4132-924d-3c61f926174f",
+      "source_type": "file_share",
+      "title": "Sample Fund Factsheet",
+      "summary": "HSBC reported strong Q1 2026 results with revenue up 13% to £18.2bn and pre-tax profit surging 31% to £12.65bn, driven by robust performance across all divisions particularly Global Banking & Markets (+36% profit growth) and improved operational efficiency (cost-to-income ratio improved 520bps to 42.1",
+      "ingested_at": "2026-03-24T07:28:44.085714"
+    },
+    {
+      "id": "7d765661-405a-4c57-88ce-dc229722b0aa",
+      "source_type": "email",
+      "title": "HSBC Q1 2026 Earnings Transcript — Investor Call",
+      "summary": "HSBC delivered strong Q1 2026 results with pre-tax profit surging 31% year-over-year to £12.65bn, driven by improved operational efficiency as evidenced by the cost-to-income ratio declining to 42.1% from 47.3%. The bank raised its net interest margin guidance to 1.7% and announced an",
+      "ingested_at": "2026-03-24T07:26:17"
+    },
+    {
+      "id": "85e8fc52-0fec-4e7c-b62f-d2d3fac27e11",
+      "source_type": "email",
+      "title": "Reuters Morning Briefing — Markets & Macro 23 Mar 2026",
+      "summary": "UK equity markets show mixed performance ahead of a pivotal rate decision, with gilt yields rising 14bps on Bank of England hawkish signals and market pricing indicating a 5.5% base rate by year-end. Financial stocks are leading gains (+1.8% FTSE 100 financials) following Moody's capital resilience upgrades and net interest margin",
+      "ingested_at": "2026-03-24T07:25:09"
+    },
+    {
+      "id": "4a8f8513-47fd-4891-800f-3d93002fac82",
+      "source_type": "email",
+      "title": "FCA Enforcement Notice Q1 2026",
+      "summary": "The FCA has mandated that 12 asset managers correct ESG labelling discrepancies across 47 funds by 30 June 2026, with compliance officer attestation required. Firms failing to address material divergences from stated ESG criteria face public censure and potential fines under SDR rules. This enforcement action reflects regulatory tightening on greenwashing and",
+      "ingested_at": "2026-03-24T07:22:12"
+    },
+    {
+      "id": "92e44050-8fc2-4923-9947-ce7bcc21a606",
+      "source_type": "rss",
+      "title": "Trump Faces Blowback on Easing Iran Oil Sanctions",
+      "summary": "President Trump, who previously criticized the Obama administration's cash payments to Iran, has shifted his position to support sanctions relief that could provide Iran with approximately $14 billion. This represents a significant policy reversal from his earlier stance on financial transfers to the Iranian government. The change highlights evolving geopolitical considerations and negotiating priorities in Trump's approach to Iran policy.",
+      "ingested_at": "2026-03-24T06:17:13.024121"
+    },
+    {
+      "id": "d5bc875b-e6c6-4ea1-bcc2-4f2551603c7a",
+      "source_type": "rss",
+      "title": "ICE Agents Are Now Patrolling U.S. Airports. Here’s What to Know.",
+      "summary": "# Summary\n\nThe DHS funding dispute has caused operational disruptions including closed security checkpoints, extended wait times, and passenger flight cancellations. A deployment is being initiated in response to these security infrastructure challenges. The situation reflects broader budgetary conflicts affecting homeland security operations.",
+      "ingested_at": "2026-03-24T06:17:13.024118"
+    },
+    {
+      "id": "a1955816-d4d4-4982-a761-d05c78350583",
+      "source_type": "rss",
+      "title": "Pentagon Adopts New Limits for Journalists After Court Loss",
+      "summary": "The Defense Department announced it will close the Pentagon's designated media work area following a court ruling that declared its current media access policy unconstitutional. This decision represents a significant change to how journalists operate within the Pentagon facility. The closure reflects the DoD's response to judicial findings that its previous restrictions on press access violated constitutional protections.",
+      "ingested_at": "2026-03-24T06:17:13.024109"
+    },
+    {
+      "id": "c6b58ace-9f48-4009-9c3d-83692b32b632",
+      "source_type": "web",
+      "title": "News | FCA",
+      "summary": "# FCA News Summary\n\nThe Financial Conduct Authority has intensified regulatory enforcement, issuing warnings against multiple unregulated entities (Qanotarytx, Market Master Pros, Bank-bit) and taking action against firms like Beauforce Corporation and Sendsii Ltd for operating without proper authorization or breaching conduct standards. The FCA is strengthening financial system resilience",
+      "ingested_at": "2026-03-24T06:17:12.945269"
+    },
+    {
+      "id": "ee04f406-11d1-4e19-a4a7-7bfa8959e2fc",
+      "source_type": "rss",
+      "title": "UK must back North Sea oil and gas drilling, says trade body",
+      "summary": "# Summary\n\nAn industry group is calling for the country to immediately increase domestic oil and gas production to ensure energy security and reduce supply vulnerabilities. The statement emphasizes the urgency of developing local resources rather than relying on imports. This reflects concerns about supply chain stability and energy independence.",
+      "ingested_at": "2026-03-24T06:17:12.923347"
+    },
+    {
+      "id": "b11af86f-198a-4015-89f4-9ab2d5086357",
+      "source_type": "rss",
+      "title": "Oil back above $100 as conflicting claims emerge on US-Iran talks",
+      "summary": "Global energy prices fell sharply following Trump's announcement that strikes on Iranian power plants would be delayed, reducing immediate geopolitical risk in the Middle East. The postponement eased concerns about potential supply disruptions in a critical oil-producing region, which had been pricing in a risk premium. Lower energy costs typically benefit consumers and businesses reliant on fuel and power, though they may pressure energy sector",
+      "ingested_at": "2026-03-24T06:17:12.923339"
+    },
+    {
+      "id": "444ab6c5-7a74-484d-9272-04e43ddefc48",
+      "source_type": "rss",
+      "title": "Royal Mail staff say they were told to hide post to look like delivery targets met",
+      "summary": "I appreciate you sharing this, but I should clarify that I don't have context for what \"BBC Your Voice\" refers to or the specific story about postal workers and this phrase. To provide a proper financial analysis summary (if this is a financial document), I would need the actual document or clearer information about its content, purpose, and financial implications. Could you share more details or the full",
+      "ingested_at": "2026-03-24T06:17:12.923330"
+    },
+    {
+      "id": "07562ab2-c116-4e66-a122-428f72cc6b63",
+      "source_type": "pdf",
+      "title": "sample_earnings",
+      "summary": "GSK delivered a strong Q4 2025 with £7.2bn revenue beating consensus by £300m, driven by robust growth in vaccines (+12%) and specialty medicines (+8%). The company raised 2026 full-year guidance to 8-10% revenue growth and secured FDA approval for a new oncology drug, supported by a robust pipeline of 15 late",
+      "ingested_at": "2026-03-24T06:17:12.780906"
+    },
+    {
+      "id": "5571bc1a-2678-4859-90ef-0456bf4fdec7",
+      "source_type": "rss",
+      "title": "Trump Sets Up ‘Pax Silica’ Fund to Reduce Global Dependencies",
+      "summary": "Trump officials highlighted how military conflict with Iran underscores critical weaknesses in U.S. energy and technology sectors. The statement suggests the administration views the situation as justification for strengthening domestic capabilities in these strategic industries. This reflects a broader policy focus on reducing dependence on potentially unstable foreign sources and securing technological independence.",
+      "ingested_at": "2026-03-23T21:46:33.152428"
+    },
+    {
+      "id": "9f670eeb-1fa3-418b-bacf-4b16ae8e4a16",
+      "source_type": "rss",
+      "title": "Trump Faces Blowback on Easing Iran Oil Sanctions",
+      "summary": "# Summary\n\nPresident Trump criticized the Obama administration's cash payments to Iran but now advocates for sanctions relief that could provide Iran with approximately $14 billion—a significant policy shift that appears contradictory to his previous stance. This reversal highlights the evolution of Trump's position on Iran policy, moving from opposition to direct payments to supporting measures that would provide substantial financial benefits to the country. The apparent",
+      "ingested_at": "2026-03-23T21:46:33.152424"
+    },
+    {
+      "id": "c5473c56-c1b6-4071-8129-c55d8ba1240f",
+      "source_type": "rss",
+      "title": "ICE Agents Are Now Patrolling U.S. Airports. Here’s What to Know.",
+      "summary": "TSA checkpoint closures due to DHS funding disputes have created operational disruptions, including extended security lines and passenger flight delays. The funding battle is impacting critical airport security operations and traveler experience. Resolution of the DHS budget issue is essential to restore normal security screening operations.",
+      "ingested_at": "2026-03-23T21:46:33.152419"
+    },
+    {
+      "id": "de07ca04-a26f-41dc-9f96-ee88765f884c",
+      "source_type": "web",
+      "title": "News | FCA",
+      "summary": "# Summary\n\nThe FCA has released multiple regulatory updates addressing consumer protection across financial services, including warnings against unregulated lenders and orders for firms like Beauforce Corporation to cease operations and return client funds. Recent enforcement actions include bans on individual operators (Kasim Garipoglu), restrictions on specific firms (Sendsii Ltd), and new resilience rules requiring improved",
+      "ingested_at": "2026-03-23T21:46:33.046627"
+    },
+    {
+      "id": "9e4beaa1-ffff-4edc-8d2b-280d88af875d",
+      "source_type": "rss",
+      "title": "Huel bought by Danone in €1bn deal",
+      "summary": "Danone is acquiring a health firm co-backed by actor Idris Elba and broadcaster Jonathan Ross for €1 billion (£860 million). The acquisition represents Danone's investment in the health and wellness sector. The deal's financial terms and strategic rationale for Danone's growth in this market segment remain to be detailed.",
+      "ingested_at": "2026-03-23T21:46:33.025145"
+    },
+    {
+      "id": "f4715396-c969-4f97-b12f-c8cd776a314a",
+      "source_type": "rss",
+      "title": "Cosmetics giant Estée Lauder in merger talks with owner of Jean Paul Gaultier and Rabanne",
+      "summary": "Estée Lauder Companies is acquiring a portfolio of luxury beauty brands including Tom Ford, Bobbi Brown, and Rabanne to strengthen its position in the global market. This consolidation creates a more diversified beauty conglomerate with expanded reach across prestige fragrances, makeup, and fashion-forward cosmetics. The transaction enhances Estée Lauder's competitive",
+      "ingested_at": "2026-03-23T21:46:33.025140"
+    },
+    {
+      "id": "6ad8f0e8-8fbb-403c-91b6-6271f01cb0ff",
+      "source_type": "rss",
+      "title": "HS2 trains could run slower than planned to save money",
+      "summary": "The government is exploring cost-reduction strategies for the long-delayed High Speed 2 (HS2) railway project connecting London and Birmingham. The project has experienced significant delays and budget overruns, necessitating a reassessment of its delivery approach. These efforts aim to make the ambitious infrastructure investment more financially feasible without compromising its core objectives.",
+      "ingested_at": "2026-03-23T21:46:33.025132"
+    },
+    {
+      "id": "26b791af-279c-4bd0-b379-91a2b2056c6a",
+      "source_type": "pdf",
+      "title": "sample_earnings",
+      "summary": "GSK exceeded Q4 expectations with £7.2bn revenue (£300m beat), driven by strong vaccine (+12%) and specialty medicine (+8%) growth. The company raised 2026 guidance to 8-10% revenue growth and secured FDA approval for a new oncology drug, supported by a robust pipeline of 15 late-stage assets. Management's confidence reflects",
+      "ingested_at": "2026-03-23T21:46:32.898126"
+    },
+    {
+      "id": "16fa9ebf-a15c-47a7-a91e-bfce2332cb56",
+      "source_type": "email",
+      "title": "Marching on",
+      "summary": "This AppSumo landing page features six productivity and automation software solutions targeting business efficiency. The offerings span task automation (Robomotion), knowledge management (remio), workflow integration (TinyCommand), organization tools (ByDesign), and marketing solutions (BannerBoo and BrandJet). These discounted deals aim to help teams reduce manual work and streamline operations",
+      "ingested_at": "2026-03-23T14:00:24"
+    },
     {
       "id": "11130379-f1da-46cc-8732-1860a1638ceb",
       "source_type": "rss",
@@ -169,6 +400,27 @@
       "title": "sample_earnings",
       "summary": "GSK delivered a strong Q4 2025, beating revenue consensus by £300m at £7.2bn with double-digit growth in vaccines and solid gains in specialty medicines. Management raised 2026 guidance to 8-10% revenue growth and secured FDA approval for a new oncology drug, supported by a robust pipeline of 15 late-stage assets. The results",
       "ingested_at": "2026-03-23T06:48:10.592391"
+    },
+    {
+      "id": "dad4a028-aa76-457b-94f5-00294bcb5955",
+      "source_type": "email",
+      "title": "Main character energy",
+      "summary": "AppSumo's weekly roundup highlights Tubi's partnership with TikTok creators through its Creatorverse Incubator to produce exclusive original content for the streaming platform. The featured deals this week include productivity and content creation tools: Emailit for email marketing, Journal it! for planning and task management, First Book AI for automated book writing, and Reap",
+      "ingested_at": "2026-03-22T14:00:49"
+    },
+    {
+      "id": "f129fe90-9e7e-4f76-b1f1-e2749f3d36bf",
+      "source_type": "email",
+      "title": "[Brevo] API Keys will be marked inactive in 7 Days",
+      "summary": "Brevo is notifying user Vaishali Mehmi that an API key (relay_OM_28dec) has not been used for 3 months and will be marked inactive in 7 days if no activity occurs. The user can prevent this by using the key within the next week, or allow it to be automatically deactivated if it's no longer needed",
+      "ingested_at": "2026-03-22T01:04:32"
+    },
+    {
+      "id": "fd037e39-6e7d-4a4e-ae8c-5358a10159bf",
+      "source_type": "email",
+      "title": "Your Google Account was recovered successfully",
+      "summary": "This email confirms that the Google account mamabearmehmi@gmail.com has been successfully recovered after being locked out. Google is recommending that the account owner review security settings and protect their account, as the lockout may have resulted from unauthorized changes by another party. The email includes a link to the account security page for the user to assess and strengthen their account protections.",
+      "ingested_at": "2026-03-21T22:18:38"
     }
   ]
 }
