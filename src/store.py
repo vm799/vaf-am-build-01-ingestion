@@ -53,9 +53,18 @@ class SQLiteDocumentStore:
             "SELECT id, source_type, title, summary, ingested_at FROM documents ORDER BY ingested_at DESC"
         ).fetchall()
 
+        source_counts = {}
+        for r in rows:
+            source_counts[r[1]] = source_counts.get(r[1], 0) + 1
+
         report = {
             "generated_at": datetime.utcnow().isoformat(),
             "count": len(rows),
+            "rss_count": source_counts.get("rss", 0),
+            "pdf_count": source_counts.get("pdf", 0),
+            "web_count": source_counts.get("web", 0),
+            "email_count": source_counts.get("email", 0),
+            "source_types": len(source_counts),
             "documents": [
                 {
                     "id": r[0],
