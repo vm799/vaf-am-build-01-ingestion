@@ -100,9 +100,18 @@ async def main():
             print(f"[✓] {n.source_type:18} | {n.title[:50]}")
             count += 1
 
-    await store.export_json(settings.reports_dir / "ingestion_report.json")
+    report_path = settings.reports_dir / "ingestion_report.json"
+    await store.export_json(report_path)
+
+    # Auto-sync to portfolio so Results tab updates immediately
+    import shutil, pathlib
+    portfolio_data = pathlib.Path(__file__).parent.parent / "portfolio" / "data"
+    if portfolio_data.exists():
+        shutil.copy(report_path, portfolio_data / "build_01.json")
+        print(f"📊 Portfolio synced → portfolio/data/build_01.json")
+
     print(f"\n✅ Complete. {count} documents ingested and stored.")
-    print(f"📁 Report: {settings.reports_dir}/ingestion_report.json")
+    print(f"📁 Report: {report_path}")
 
 if __name__ == "__main__":
     asyncio.run(main())
